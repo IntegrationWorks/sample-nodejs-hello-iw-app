@@ -11,7 +11,7 @@ description: "This sample demonstrates a Hello Integraion Works Node.js app for 
 
 # Node.js Hello Integration Works
 
-This sample is simplified version of a public implementation that demonstrates a Hello Integraion Works node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web). 
+This sample is a simplified version of a public implementation that demonstrates a Hello Integraion Works NodeJS app for an [App Service Web App](https://docs.microsoft.com/azure/app-service-web) used in the example in Microsoft documentation [Create App Service app using Bicep](https://learn.microsoft.com/en-us/azure/app-service/provision-resource-bicep)
 
 ## Contributing
 
